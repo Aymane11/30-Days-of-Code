@@ -20,3 +20,4 @@ This is my attempt to complete [Hackerrank](https://www.hackerrank.com)'s [30 Da
 |                 [Day 9: Recursion 3 ](https://www.hackerrank.com/challenges/30-recursion/problem) :heavy_check_mark:                 | [Link](../main/Solutions/Day9/solution.rb) |
 |             [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) :heavy_check_mark:             | [Link](../main/Solutions/DayA/solution.rb) |
 |                  [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) :heavy_check_mark:                  | [Link](../main/Solutions/DayB/solution.rb) |
+|                [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) :heavy_check_mark:                | [Link](../main/Solutions/DayC/solution.rb) |
