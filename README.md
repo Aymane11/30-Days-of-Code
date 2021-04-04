@@ -21,3 +21,6 @@ This is my attempt to complete [Hackerrank](https://www.hackerrank.com)'s [30 Da
 |             [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) :heavy_check_mark:             | [Link](../main/Solutions/DayA/solution.rb) |
 |                  [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) :heavy_check_mark:                  | [Link](../main/Solutions/DayB/solution.rb) |
 |                [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) :heavy_check_mark:                | [Link](../main/Solutions/DayC/solution.rb) |
+|           [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) :heavy_check_mark:           | [Link](../main/Solutions/DayD/solution.rb) |
+|                             [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem) :x:                              |             Ruby not available             |
+|                [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) :heavy_check_mark:                | [Link](../main/Solutions/DayF/solution.rb) |
